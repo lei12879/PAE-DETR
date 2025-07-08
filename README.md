@@ -1,6 +1,6 @@
-# PAE-DETR: Polarity Attention Enhanced DETR with Efficient Cross-scale Feature Fusion for UAV Small Object Detection
+# PAE-DETR
 
-**Official implementation** of  *"PAE-DETR: Polarity Attention Enhanced DETR with Efficient Cross-scale Feature Fusion for UAV Small Object Detection"* .
+**Official implementation** of  *"PAE-DETR"* .
 
 ##  ⚙️Installation
 We use  `python=3.10,pytorch=2.0.1,cuda=11.7`. Other versions may also be available. Clone the repository locally and install with
